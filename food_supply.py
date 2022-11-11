@@ -8,7 +8,7 @@ for i in range(n):
     if tem>=e:
         
         if temp>=e:
-            print("yes")
+            print("Yes")
         else:
             print("no")
     else:
